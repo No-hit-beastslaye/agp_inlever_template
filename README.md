@@ -13,7 +13,7 @@ Mobile & WebGL
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Backlog")
 | Logboek (pdf)                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
-| Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
+| Game concept doc (pdf)                    | [GameDesignDoc]( "Game design document")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
