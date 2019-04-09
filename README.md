@@ -11,7 +11,7 @@ Mobile & WebGL
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]( "Backlog")
+| Link naar online product backlog (Trello) | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Backlog")
 | Logboek (pdf)                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
 |<img width=500/>|<img width=300/>|
@@ -34,7 +34,7 @@ Mobile & WebGL
 | Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
+   [Backlog]: <https://trello.com/b/dv6jHz2U/mythes>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
