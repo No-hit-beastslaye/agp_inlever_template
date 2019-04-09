@@ -13,7 +13,7 @@ Mobile & WebGL
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]( "Backlog")
 | Logboek (pdf)                             | [Logboek]( "Logboek")
-| Game concept doc (pdf)                    | [GameDesignDoc]( "Game design document")
+| Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
@@ -29,7 +29,7 @@ Mobile & WebGL
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]( "Sprint verslagen")
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]( "Sprint review verslag")
-| Link naar online speelbaar prototype  | [Prototype]( "Neflheim, het spel")
+| Link naar online speelbaar prototype  | [Prototype]( "Niflheim, het spel")
 | Logboek (pdf)                         | [Logboek]( "Logboek")
 | Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
 |<img width=500/>|<img width=300/>|
