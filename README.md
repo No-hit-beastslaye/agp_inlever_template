@@ -1,8 +1,8 @@
 ## [NiflHeim]
-Project team:[Alex Bröking, Abdelaziz, Brett, Brecht, Brandon Ruigrok, Sjors van der Kleij & Thomas Linssen]
+Project team: Alex Bröking, Abdelaziz Elbaze, Brecht Sohier, Brett Schuuring, Brandon Ruigrok, Sjors van der Kleij & Thomas Linssen
 
 Platform:
-[Mobile & WebGL]
+Mobile & WebGL
 
 ### Korte omschrijving van de game
 ...
@@ -11,27 +11,27 @@ Platform:
 #### Producten Werkproces 1
 | Product  | Link |
 | ------ |  ------ |
-| Link naar online product backlog (Trello) | [Backlog]()
-| Logboek (pdf)                             | [Logboek]()
-| Game concept doc (pdf)                    | [GameDesignDoc] ()
+| Link naar online product backlog (Trello) | [Backlog]( "Backlog")
+| Logboek (pdf)                             | [Logboek]( "Logboek")
+| Game concept doc (pdf)                    | [GameDesignDoc]( "Game design document")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]()
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]()
-| Logboek (pdf)                                             | [Logboek]()
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]( "Trello")
+| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]( "Sprint verslagen")
+| Logboek (pdf)                                             | [Logboek]( "Logboek")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]()
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]()
-| Link naar online speelbaar prototype  | [Prototype]()
-| Logboek (pdf)                         | [Logboek]()
-| Asset planning (pdf)                  | [AssetPlanning]()
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]( "Sprint verslagen")
+| Sprint review verslagen (pdf)         | [ReviewVerslagen]( "Sprint review verslag")
+| Link naar online speelbaar prototype  | [Prototype]( "Neflheim, het spel")
+| Logboek (pdf)                         | [Logboek]( "Logboek")
+| Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
