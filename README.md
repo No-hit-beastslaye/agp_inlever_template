@@ -12,16 +12,16 @@ Mobile & WebGL
 | Product  | Link |
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]( "Backlog")
-| Logboek (pdf)                             | [Logboek]( "Logboek")
+| Logboek (pdf)                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]( "Trello")
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Trello")
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]( "Sprint verslagen")
-| Logboek (pdf)                                             | [Logboek]( "Logboek")
+| Logboek (pdf)                                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -30,7 +30,7 @@ Mobile & WebGL
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]( "Sprint verslagen")
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]( "Sprint review verslag")
 | Link naar online speelbaar prototype  | [Prototype]( "Niflheim, het spel")
-| Logboek (pdf)                         | [Logboek]( "Logboek")
+| Logboek (pdf)                         | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
 |<img width=500/>|<img width=300/>|
 
