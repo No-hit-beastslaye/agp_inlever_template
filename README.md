@@ -1,5 +1,5 @@
 ## [NiflHeim]
-Project team: Alex Bröking, Abdelaziz Elbaze, Brecht Sohier, Brett Schuuring, Brandon Ruigrok, Sjors van der Kleij & Thomas Linssen
+Project team: Abdelaziz Elbaze, Alex Bröking, Brecht Sohier, Brett Schuuring, Brandon Ruigrok, Sjors van der Kleij & Thomas Linssen
 
 Platform:
 Mobile
