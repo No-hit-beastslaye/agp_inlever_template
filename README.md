@@ -29,7 +29,7 @@ Mobile & WebGL
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]( "Sprint verslagen")
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]( "Sprint review verslag")
-| Link naar online speelbaar prototype  | [Prototype]( "Niflheim, het spel")
+| Link naar online speelbaar prototype  | [Prototype](http://24916.hosts.ma-cloud.nl/bewijzenmap/periode1.1/Game/NiflHeim/index.html "Niflheim, het spel")
 | Logboek (pdf)                         | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
 |<img width=500/>|<img width=300/>|
