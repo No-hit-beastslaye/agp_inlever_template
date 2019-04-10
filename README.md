@@ -14,7 +14,7 @@ Je speelt als Hel, een noorse godin die bepaald of je naar Helheim of Valhalla g
 | Link naar online product backlog (Trello) | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Backlog")
 | Logboek (pdf)                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/persoonlijk/brecht/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
-| Spel regels                               | [SpelRegels](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/SPELREGELS.pdf Spel regels)
+| Spel regels                               | [SpelRegels](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/SPELREGELS.pdf "Spel regels")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
