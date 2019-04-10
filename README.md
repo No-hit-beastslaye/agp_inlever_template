@@ -5,7 +5,7 @@ Platform:
 Mobile
 
 ### Korte omschrijving van de game
-Je speelt als Hel, een noorse godin die bepaald of je naar Helheim of Valhalla gaat. Het is een endless runner waar je souls oppakt met de juiste kleur, en die afschiet op een portaal voor je. Als het portaal kapot is, ga je naar het volgende level.
+Je speelt als Hel, een noorse godin die bepaald of je naar Helheim of Valhalla gaat. Het is een endless runner waar je souls op pakt met de juiste kleur, en die afschiet op het portaal voor je. Als het portaal kapot is, ga je naar het volgende level.
 
 ---
 #### Producten Werkproces 1
