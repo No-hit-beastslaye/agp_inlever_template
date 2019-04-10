@@ -14,24 +14,25 @@ Je speelt als Hel, een noorse godin die bepaald of je naar Helheim of Valhalla g
 | Link naar online product backlog (Trello) | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Backlog")
 | Logboek (pdf)                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Game concept doc (pdf)                    | [GameDesignDoc](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/persoonlijk/brecht/GAME%20CONCEPT%20DOCUMENT.pdf "Game design document")
+| Spel regels                               | [Spel regels](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/SPELREGELS.pdf Spel regels)
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog](https://trello.com/b/dv6jHz2U/mythes "Trello")
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]( "Sprint verslagen")
+| Sprint retrospective verslagen (pdf)                      | RetrospectiveVerslagen
 | Logboek (pdf)                                             | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]( "Sprint verslagen")
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]( "Sprint review verslag")
+| Sprint retrospective verslagen (pdf)  | RetrospectiveVerslagen
+| Sprint review verslagen (pdf)         | ReviewVerslagen
 | Link naar online speelbaar prototype  | [Prototype](http://24916.hosts.ma-cloud.nl/bewijzenmap/periode1.1/Game/NiflHeim/index.html "Niflheim, het spel")
 | Logboek (pdf)                         | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
-| Asset planning (pdf)                  | [AssetPlanning]( "Asset planning")
+| Asset planning (pdf)                  | AssetPlanning
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/dv6jHz2U/mythes>
