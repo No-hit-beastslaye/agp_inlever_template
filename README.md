@@ -33,7 +33,7 @@ Je speelt als Hel, een noorse godin die bepaald of je naar Helheim of Valhalla g
 | Link naar online speelbaar prototype  | [Prototype](http://24916.hosts.ma-cloud.nl/bewijzenmap/periode1.1/Game/NiflHeim/index.html "Niflheim, het spel")
 | Logboek (pdf)                         | [Logboek](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/LOGBOEK%20GEZAMELIJK.pdf "Logboek")
 | Asset planning (pdf)                  | AssetPlanning
-| Bron vermelding (pdf)                 | [Bronvermelding](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/Bronvermelding_mythe.pdf)
+| Bron vermelding (pdf)                 | [Bronvermelding](https://github.com/No-hit-beastslaye/agp_inlever_template/blob/master/producten/Bronvermelding_mythe.txt)
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/dv6jHz2U/mythes>
